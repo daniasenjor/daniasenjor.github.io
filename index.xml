@@ -18,19 +18,28 @@
     
     <item>
       <title>1 - Planimetrías</title>
-      <link>https://daniasenjor.github.io/docs/planimetr%C3%ADas/</link>
+      <link>https://daniasenjor.github.io/docs/ejemplo/planimetr%C3%ADas/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://daniasenjor.github.io/docs/planimetr%C3%ADas/</guid>
+      <guid>https://daniasenjor.github.io/docs/ejemplo/planimetr%C3%ADas/</guid>
       <description>Entrega 1 - Imágenes planimetría - Silla</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://daniasenjor.github.io/docs/markdown/</link>
+      <title>2 - Mecanizado CNC</title>
+      <link>https://daniasenjor.github.io/docs/ejemplo/cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://daniasenjor.github.io/docs/markdown/</guid>
+      <guid>https://daniasenjor.github.io/docs/ejemplo/cnc/</guid>
+      <description>Mecanizado CNC - Silla Fresia</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daniasenjor.github.io/docs/markdown/cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/markdown/cnc/</guid>
       <description></description>
     </item>
     
