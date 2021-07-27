@@ -54,10 +54,10 @@
     
     <item>
       <title></title>
-      <link>https://daniasenjor.github.io/docs/cnc-grupal/</link>
+      <link>https://daniasenjor.github.io/docs/impresi%C3%B3n-3d/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://daniasenjor.github.io/docs/cnc-grupal/</guid>
+      <guid>https://daniasenjor.github.io/docs/impresi%C3%B3n-3d/</guid>
       <description></description>
     </item>
     
@@ -68,6 +68,15 @@
       
       <guid>https://daniasenjor.github.io/docs/ejemplo/simulacion-y-dise%C3%B1o-gen/</guid>
       <description>Ejemplo de simulación y aplicación de diseño generativo en el ala de un avión.</description>
+    </item>
+    
+    <item>
+      <title>5 - Impresión 3D</title>
+      <link>https://daniasenjor.github.io/docs/ejemplo/impresi%C3%B3n-3d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/ejemplo/impresi%C3%B3n-3d/</guid>
+      <description>Tutorial para aprender a utilizar la herramienta CURA e imprimir en 3D.</description>
     </item>
     
   </channel>
