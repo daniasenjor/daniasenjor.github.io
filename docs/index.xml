@@ -53,24 +53,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://daniasenjor.github.io/docs/ejemplo/complementarios/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://daniasenjor.github.io/docs/ejemplo/complementarios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://daniasenjor.github.io/docs/examen-materiales/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://daniasenjor.github.io/docs/examen-materiales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>4 - Simulación y Diseño Generativo</title>
       <link>https://daniasenjor.github.io/docs/ejemplo/simulacion-y-dise%C3%B1o-gen/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -89,11 +71,38 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://daniasenjor.github.io/docs/ejemplo/complementarios/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/ejemplo/complementarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daniasenjor.github.io/docs/examen-materiales-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/examen-materiales-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EXÁMEN: PROCESO</title>
       <link>https://daniasenjor.github.io/docs/ejemplo/examen-materiales/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://daniasenjor.github.io/docs/ejemplo/examen-materiales/</guid>
+      <description>Proceso de investigación y experimentación a través del cual desarrollamos nuestro exámen.</description>
+    </item>
+    
+    <item>
+      <title>EXÁMEN: ITERACIÓN 2</title>
+      <link>https://daniasenjor.github.io/docs/ejemplo/examen-materiales-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/ejemplo/examen-materiales-2/</guid>
       <description>Proceso de investigación y experimentación a través del cual desarrollamos nuestro exámen.</description>
     </item>
     
