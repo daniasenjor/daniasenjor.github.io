@@ -71,21 +71,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>6 - Complementarios</title>
       <link>https://daniasenjor.github.io/docs/ejemplo/complementarios/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://daniasenjor.github.io/docs/ejemplo/complementarios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://daniasenjor.github.io/docs/examen-materiales-2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://daniasenjor.github.io/docs/examen-materiales-2/</guid>
-      <description></description>
+      <description>Tutorial para poder modelar superficies paso a paso con el software fusion 360.</description>
     </item>
     
     <item>
@@ -104,6 +95,24 @@
       
       <guid>https://daniasenjor.github.io/docs/ejemplo/examen-materiales-2/</guid>
       <description>Proceso de investigación y experimentación a través del cual desarrollamos nuestro exámen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daniasenjor.github.io/docs/ejemplo/examen-materiales-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/ejemplo/examen-materiales-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://daniasenjor.github.io/docs/examen-materiales-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniasenjor.github.io/docs/examen-materiales-2/</guid>
+      <description></description>
     </item>
     
   </channel>
